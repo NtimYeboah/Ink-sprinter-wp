@@ -29,7 +29,7 @@ get_header();
             </div>
             <div>
                 <div class="h-5 mt-2">
-                    <h2 class="font-saira font-bold text-xl dark:text-gray-200">Featured Article</h2>
+                    <h2 class="font-saira font-bold text-xl dark:text-gray-200"><?php _e('Featured Article', 'ink'); ?></h2>
                 </div>
             </div>
         </div>
@@ -128,7 +128,7 @@ get_header();
                 </div>
                 <div>
                     <div class="h-5 mt-2">
-                        <h2 class="font-saira font-bold text-xl dark:text-gray-200">Latest Articles</h2>
+                        <h2 class="font-saira font-bold text-xl dark:text-gray-200"><?php _e('Latest Articles', 'ink'); ?></h2>
                     </div>
                 </div>
             </div>
@@ -179,7 +179,7 @@ get_header();
                 </div>
                 <div>
                     <div class="h-5 mt-2">
-                        <h2 class="font-saira font-bold text-xl dark:text-gray-200">Tips & Snippets</h2>
+                        <h2 class="font-saira font-bold text-xl dark:text-gray-200"><?php _e('Tips & Snippets', 'ink'); ?></h2>
                     </div>
                 </div>
             </div>
